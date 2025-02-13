@@ -1,0 +1,11 @@
+Epoch 1/5: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 283/283 [02:58<00:00,  1.59img/s]
+Traceback (most recent call last):                                                                                                                                                     
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\train.py", line 146, in <module>
+    train_model(
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\train.py", line 113, in train_model
+    val_score = evaluate(model, val_loader, device, amp)
+  File "c:\Users\AMI-DEEP3\anaconda3\envs\younguks\lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\evaluate.py", line 32, in evaluate
+    assert mask_true.min() >= 0 and mask_true.max() < net.n_classes, 'True mask indices should be in [0, n_classes['
+AssertionError: True mask indices should be in [0, n_classes[

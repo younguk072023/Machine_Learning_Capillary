@@ -1,0 +1,22 @@
+INFO: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   1e-05
+        Training size:   283
+        Validation size: 31
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+        Mixed Precision: False
+
+c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master (1)\Pytorch-UNet-master\train.py:76: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  grad_scaler = torch.cuda.amp.GradScaler(enabled=amp)
+Epoch 1/5:   0%|                                                                                                                                              | 0/283 [01:05<?, ?img/s]
+🚨 Invalid mask values detected! Min: 0, Max: 726
+Expected range: [0, 1]
+Traceback (most recent call last):
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master (1)\Pytorch-UNet-master\train.py", line 216, in <module>
+    train_model(
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master (1)\Pytorch-UNet-master\train.py", line 99, in train_model
+    raise ValueError("Mask values are out of range!")
+ValueError: Mask values are out of range!

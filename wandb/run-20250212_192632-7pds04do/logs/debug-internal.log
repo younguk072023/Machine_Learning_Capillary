@@ -1,0 +1,7 @@
+{"time":"2025-02-12T19:26:33.1855602+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\AMI-DEEP3\\Desktop\\younguk\\wandb\\run-20250212_192632-7pds04do\\logs\\debug-core.log"}
+{"time":"2025-02-12T19:26:33.293532+09:00","level":"INFO","msg":"created new stream","id":"7pds04do"}
+{"time":"2025-02-12T19:26:33.293532+09:00","level":"INFO","msg":"stream: started","id":"7pds04do"}
+{"time":"2025-02-12T19:26:33.293532+09:00","level":"INFO","msg":"handler: started","stream_id":"7pds04do"}
+{"time":"2025-02-12T19:26:33.293532+09:00","level":"INFO","msg":"sender: started","stream_id":"7pds04do"}
+{"time":"2025-02-12T19:26:33.293532+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"7pds04do"}
+{"time":"2025-02-12T19:26:33.9697417+09:00","level":"INFO","msg":"Starting system monitor"}

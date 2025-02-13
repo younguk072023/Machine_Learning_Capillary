@@ -1,0 +1,22 @@
+INFO: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   1e-05
+        Training size:   283
+        Validation size: 31
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+        Mixed Precision: False
+
+Epoch 1/5:  20%|██████████████████████▎                                                                                          | 56/283 [02:17<09:17,  2.45s/img, loss (batch)=0.535]
+Traceback (most recent call last):                                                                                                                                                     
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\train.py", line 224, in <module>
+    train_model(
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\train.py", line 153, in train_model
+    val_score = evaluate(model, val_loader, device, amp)
+  File "c:\Users\AMI-DEEP3\anaconda3\envs\younguks\lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "c:\Users\AMI-DEEP3\Desktop\younguk\Pytorch-UNet-master\Pytorch-UNet-master\evaluate.py", line 32, in evaluate
+    assert mask_true.min() >= 0 and mask_true.max() < net.n_classes, 'True mask indices should be in [0, n_classes['
+AssertionError: True mask indices should be in [0, n_classes[

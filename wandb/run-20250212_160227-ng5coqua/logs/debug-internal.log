@@ -1,0 +1,15 @@
+{"time":"2025-02-12T16:02:28.2611866+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\AMI-DEEP3\\Desktop\\younguk\\wandb\\run-20250212_160227-ng5coqua\\logs\\debug-core.log"}
+{"time":"2025-02-12T16:02:28.369395+09:00","level":"INFO","msg":"created new stream","id":"ng5coqua"}
+{"time":"2025-02-12T16:02:28.369395+09:00","level":"INFO","msg":"stream: started","id":"ng5coqua"}
+{"time":"2025-02-12T16:02:28.369395+09:00","level":"INFO","msg":"handler: started","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:02:28.369395+09:00","level":"INFO","msg":"sender: started","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:02:28.369395+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:02:28.8780387+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T16:18:57.6992112+09:00","level":"INFO","msg":"stream: closing","id":"ng5coqua"}
+{"time":"2025-02-12T16:18:57.6992112+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-12T16:18:57.6997166+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-12T16:19:00.6105352+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-12T16:19:03.7468775+09:00","level":"INFO","msg":"handler: closed","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:19:03.7468775+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:19:03.7468775+09:00","level":"INFO","msg":"sender: closed","stream_id":"ng5coqua"}
+{"time":"2025-02-12T16:19:03.7480682+09:00","level":"INFO","msg":"stream: closed","id":"ng5coqua"}

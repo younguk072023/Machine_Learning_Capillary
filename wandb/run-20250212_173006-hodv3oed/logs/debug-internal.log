@@ -1,0 +1,15 @@
+{"time":"2025-02-12T17:30:06.5796756+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\AMI-DEEP3\\Desktop\\younguk\\wandb\\run-20250212_173006-hodv3oed\\logs\\debug-core.log"}
+{"time":"2025-02-12T17:30:06.6988629+09:00","level":"INFO","msg":"created new stream","id":"hodv3oed"}
+{"time":"2025-02-12T17:30:06.6988629+09:00","level":"INFO","msg":"stream: started","id":"hodv3oed"}
+{"time":"2025-02-12T17:30:06.6988629+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:30:06.6996284+09:00","level":"INFO","msg":"handler: started","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:30:06.6996284+09:00","level":"INFO","msg":"sender: started","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:30:08.2527033+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T17:31:13.7727841+09:00","level":"INFO","msg":"stream: closing","id":"hodv3oed"}
+{"time":"2025-02-12T17:31:13.7727841+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-12T17:31:13.7733257+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-12T17:31:15.5807594+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-12T17:31:16.8208814+09:00","level":"INFO","msg":"handler: closed","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:31:16.8208814+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:31:16.8208814+09:00","level":"INFO","msg":"sender: closed","stream_id":"hodv3oed"}
+{"time":"2025-02-12T17:31:16.8208814+09:00","level":"INFO","msg":"stream: closed","id":"hodv3oed"}

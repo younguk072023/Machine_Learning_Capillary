@@ -1,0 +1,15 @@
+{"time":"2025-02-12T17:21:54.5399466+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\AMI-DEEP3\\Desktop\\younguk\\wandb\\run-20250212_172154-th19heju\\logs\\debug-core.log"}
+{"time":"2025-02-12T17:21:54.6495939+09:00","level":"INFO","msg":"created new stream","id":"th19heju"}
+{"time":"2025-02-12T17:21:54.6495939+09:00","level":"INFO","msg":"stream: started","id":"th19heju"}
+{"time":"2025-02-12T17:21:54.6495939+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"th19heju"}
+{"time":"2025-02-12T17:21:54.6502398+09:00","level":"INFO","msg":"handler: started","stream_id":"th19heju"}
+{"time":"2025-02-12T17:21:54.6502398+09:00","level":"INFO","msg":"sender: started","stream_id":"th19heju"}
+{"time":"2025-02-12T17:21:58.7406487+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T17:23:06.04021+09:00","level":"INFO","msg":"stream: closing","id":"th19heju"}
+{"time":"2025-02-12T17:23:06.04021+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-12T17:23:06.0407585+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-12T17:23:07.7213438+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-12T17:23:08.3236947+09:00","level":"INFO","msg":"handler: closed","stream_id":"th19heju"}
+{"time":"2025-02-12T17:23:08.3236947+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"th19heju"}
+{"time":"2025-02-12T17:23:08.3236947+09:00","level":"INFO","msg":"sender: closed","stream_id":"th19heju"}
+{"time":"2025-02-12T17:23:08.3241741+09:00","level":"INFO","msg":"stream: closed","id":"th19heju"}

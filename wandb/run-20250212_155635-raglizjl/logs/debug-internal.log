@@ -1,0 +1,15 @@
+{"time":"2025-02-12T15:56:35.3362427+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\AMI-DEEP3\\Desktop\\younguk\\wandb\\run-20250212_155635-raglizjl\\logs\\debug-core.log"}
+{"time":"2025-02-12T15:56:35.4533267+09:00","level":"INFO","msg":"created new stream","id":"raglizjl"}
+{"time":"2025-02-12T15:56:35.4533267+09:00","level":"INFO","msg":"stream: started","id":"raglizjl"}
+{"time":"2025-02-12T15:56:35.4533267+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:56:35.4546379+09:00","level":"INFO","msg":"handler: started","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:56:35.4546379+09:00","level":"INFO","msg":"sender: started","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:56:35.963175+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T15:59:39.3073906+09:00","level":"INFO","msg":"stream: closing","id":"raglizjl"}
+{"time":"2025-02-12T15:59:39.3073906+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-12T15:59:39.3073906+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-12T15:59:40.0300121+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-12T15:59:40.2701799+09:00","level":"INFO","msg":"handler: closed","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:59:40.2702938+09:00","level":"INFO","msg":"sender: closed","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:59:40.2702938+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"raglizjl"}
+{"time":"2025-02-12T15:59:40.2713833+09:00","level":"INFO","msg":"stream: closed","id":"raglizjl"}
