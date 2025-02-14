@@ -9,11 +9,23 @@ Epoch 1/100, Loss: 0.4963 Epoch 2/100, Loss: 0.4534 Epoch 3/100, Loss: 0.3959 Ep
 
 ## hyperprameter 
 Batch Size = 16
+
+
 Learning Rate = 0.001 + Learning Rate Scheduler(5 epoch 동안 손실이 개선되지 않으면 학습률 감소)
+
+
 Optimizer = Adam
+
+
 Dropout Rate = 0.5
+
+
 Batch Normalization 추가
+
+
 Epochs = 100
+
+
 Early stopping = 10
 
 
